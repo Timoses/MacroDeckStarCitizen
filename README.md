@@ -1,1 +1,1 @@
-# MacroDeckStarCitizen
+# MacroDeck StarCitizen Icon Package

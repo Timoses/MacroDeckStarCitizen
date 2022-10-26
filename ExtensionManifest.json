@@ -1,0 +1,10 @@
+{
+   "type" : "IconPack",
+   "name" : "Star Citizen",
+   "author" : "Timoses",
+   "repository" : "https://github.com/Timoses/MacroDeckStarCitizen",
+   "packageId" : "Timoses.StarCitizen",
+   "version" : "0.0.1",
+   "target-plugin-api-version" : 36,
+   "dll" : ""
+}
